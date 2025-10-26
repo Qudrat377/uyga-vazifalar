@@ -8,7 +8,7 @@
 //   let ikki = [];
 //   for (let i = 0; i < str.length; i++) {
 //     hozircha += str[i];
-//     strin[strin.length] = hozircha;
+//     strin[strin.length] = hozircha;  //[ 'b', 'ba', 'bab', 'baba', 'babad' ]
 //   }
 
 //   for (const element of strin) {
@@ -16,7 +16,7 @@
 //     for (let j = element.length - 1; j >= 0; j--) {
 //       bir += element[j];
 //     }
-//     ikki[ikki.length] = bir;
+//     ikki[ikki.length] = bir;  //[ 'b', 'ab', 'bab', 'abab', 'dabab' ]
 //   }
 //   let sum = "";
 //   for (let i = 0; i < strin.length; i++) {
@@ -28,7 +28,8 @@
 //     }
 //   }
 
-//   return sum;
+//   return sum
+//   ;
 // }
 
 // console.log(bbc("babad"));
