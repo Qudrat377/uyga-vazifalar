@@ -207,7 +207,7 @@
 
 // ------------------------------------------------10 masala
 
-// ichma ich arraylarni yig'indisini topish
+// // ichma ich arraylarni yig'indisini topish
 
 // function bbc(arr) {
 //   let sum = 0;
