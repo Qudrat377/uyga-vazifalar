@@ -99,7 +99,7 @@
 //   let sum = [];
 //   let res = [];
 //   let toq = arr[arr.length - 1];
-//   if (toq % 3 === 0) {
+//   if (toq % 2 !== 0) {
 //     for (let i = 0; i < arr.length; i++) {
 //       let belgi = arr[i];
 //       if (belgi % 2 !== 0) {
@@ -110,7 +110,7 @@
 //   return sum;
 // }
 
-// console.log(bbc([2, 55, 2, 21, 44, 3]));
+// console.log(bbc([2, 55, 2, 21, 44, 2, 1]));
 
 // --------------------------------------------------------4 masala
 
@@ -167,6 +167,7 @@
 
 //   let kichikIndex = minIndex < maxIndex ? minIndex : maxIndex;
 //   let kattaIndex = minIndex > maxIndex ? minIndex : maxIndex;
+//   console.log(kichikIndex);
 
 //   let obj = {};
 
@@ -179,6 +180,7 @@
 //       // console.log(obj[i]);
 //     }
 //   }
+  
 //   let result = Object.values(obj);
 
 //   return result;
