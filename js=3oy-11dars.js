@@ -79,6 +79,8 @@
 //   let soz = ""
 //   for (let i = sum.length - 1; i >= 0; i--) {
 //     soz += sum[i];
+//     console.log(sum[i]);
+    
 //     if (i < sum.length) {
 //       soz += " ";
 //     }
