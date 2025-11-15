@@ -1,29 +1,32 @@
 //----------------------------------- 1 masala
 
-function bbc(arr) {
-  let sum = [];
-  let katta = 0;
-  let kichik = 0;
-  for (let i = 0; i < arr.length; i++) {
-    for (let j = 0; j < arr.length; j++) {
-      if (arr[j] > arr[j + 1]) {
-        let temp = arr[j];
-        arr[j] = arr[j + 1];
-        arr[j + 1] = temp;
-      }
-    }
-  }
-  for (let i = 0; i < arr.length; i++) {
-    for (let j = arr.length - 1; j >= 0; j--) {
-    
-    }
-  }
-  return sum;
-}
+// function bbc(arr) {
+//   let sum = [];
+//   for (let i = 0; i < arr.length; i++) {
+//     for (let j = 0; j < arr.length; j++) {
+//       if (arr[j] > arr[j + 1]) {
+//         let temp = arr[j];
+//         arr[j] = arr[j + 1];
+//         arr[j + 1] = temp;
+//       }
+//     }
+//   }
+//   let count = 0;
+//   let uzun = Math.ceil(arr.length / 2);
+//   for (let i = 0; i < uzun; i++) {
+//     if (arr.length !== sum.length) {
+//       count++;
+//       sum.push(arr[arr.length - count]);
+//       count--;
+//       sum.push(arr[count]);
+//       count++;
+//     }
+//   }
+//   sum.pop();
+//   return sum;
+// }
 
-console.log(bbc([3, 1, 4, 1, 5, 9, 2]));
-
-
+// console.log(bbc([3, 1, 4, 1, 5, 9, 2]));
 
 // function sumarr(arr) {
 //     let sum = arr[0]
@@ -31,7 +34,7 @@ console.log(bbc([3, 1, 4, 1, 5, 9, 2]));
 //     for (let i = 0; i < arr.length; i++) {
 //         if (sum<arr[i]+1) {
 //             res.push(arr[i])
-            
+
 //         }if (sum>arr[i]+1) {
 //             res.push(arr[i])
 //         }
@@ -114,3 +117,60 @@ console.log(bbc([3, 1, 4, 1, 5, 9, 2]));
 // }
 
 // console.log(bbc([1, 2, 3, 4, 5], [4, 5, 6, 7, 8]));
+
+// ----------------------------------------------------- testlar
+
+
+// let b; b = nun
+
+// console.log(b);1
+
+// let d
+
+// d = 20
+
+// console.log(d);
+
+// let i = null; console.log(undefined == i);
+
+// let f;
+
+// console.log(f === undefined);1
+
+// let h = "Hello"
+
+// h = undefined
+
+// console.log(h);1
+
+// console.log(undefined + 10);1
+
+// let i = undefined
+
+// console.log(i + 5);1
+
+// console.log(null == undefined);
+
+// console.log(null === undefined);
+
+// let j;
+
+// console.log(typeof j);1
+
+// function returnVal() {
+
+//   return
+// }
+
+// console.log(returnVal());1
+
+// let p = 100
+
+// p = undefined 
+
+// console.log(p === undefined);1
+
+// console.log(typeof null === typeof undefined);
+
+// console.log(undefined == false);
+
