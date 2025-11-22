@@ -1,0 +1,14 @@
+[
+    {
+        "marka": "samsung",
+        "type": "A50",
+        "price": 100
+    },
+    [
+        {
+            "marka": "samsung",
+            "type": "A10",
+            "price": 110
+        }
+    ]
+]
