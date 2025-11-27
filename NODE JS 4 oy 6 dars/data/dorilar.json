@@ -1,0 +1,33 @@
+[
+    {
+        "id": "07380b57-f21f-46e6-9e39-f79d2dda598f",
+        "shaxsIsmi": "Muhiddin",
+        "elektron_Manzil": "Assomad@gmail.com",
+        "kalit": "$2b$12$a31B8jpsfJdldkSVLN.jxuwf6KGFIWhlvvUrkihf3mPgSKNvN07vu",
+        "dorilar": {
+            "parasitamol": {
+                "tasiri": "istmaga",
+                "shakil": "tabletka",
+                "nechta bor omborda": "1"
+            },
+            "ibuprofen": {
+                "tasiri": "yangilandi",
+                "shakil": "kapsula",
+                "nechta bor omborda": "20"
+            }
+        }
+    },
+    {
+        "id": "f48a5896-ee0f-4ff6-a2bf-6e6216c7bf90",
+        "shaxsIsmi": "Qudrat",
+        "elektron_Manzil": "somad@gmail.com",
+        "kalit": "$2b$12$sjkVcrUw7hEwApgLlQQQkutgBpgJTWkByzKlw4wO0tpu.pOhs3q26",
+        "dorilar": {
+            "ibuprofen": {
+                "tasiri": "yallig'lanishga",
+                "shakil": "tabletka",
+                "nechta bor omborda": "5"
+            }
+        }
+    }
+]
