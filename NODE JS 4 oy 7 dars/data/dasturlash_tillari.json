@@ -1,0 +1,17 @@
+[
+    {
+        "id": "447f6dde-4c6c-4f03-a5b0-8dca3cf66834",
+        "nomi": "javasktipt",
+        "tezligi": "600.000s/t"
+    },
+    {
+        "id": "cc10ff10-e5b6-4542-95e0-f125e6f1c283",
+        "nomi": "payton",
+        "tezligi": "15.001s/t"
+    },
+    {
+        "id": "5e089ea7-47b3-4be1-9be2-a5b371fbe47a",
+        "nomi": "go",
+        "tezligi": "1500.000s/t"
+    }
+]
