@@ -1,0 +1,30 @@
+[
+    {
+        "id": "4355f6a1-3d71-4770-becc-3ca72a918955",
+        "shaxsismi": "Qudrat",
+        "email": "qudratrazzoqov677@gmail.com",
+        "role": "superadmin",
+        "kalit": "$2b$12$dcFO98wtsErcROLy5XaEre3b6m7Afjq5cfWYz4dDJb1v7HBQmCr8a"
+    },
+    {
+        "id": "852328a8-9352-412f-b034-89a9138eb19c",
+        "shaxsismi": "Anvar",
+        "email": "a@gmail.com",
+        "role": "user",
+        "kalit": "$2b$12$6dE.rP62LRVgwyHbct8hNOiCWJ0tiV9Hm1xvtwQw4GD6L1ZGSwfQ."
+    },
+    {
+        "id": "354e11e4-c108-4189-9d9f-7da620dc082a",
+        "shaxsismi": "Rusalan",
+        "email": "r@gmail.com",
+        "role": "admin",
+        "kalit": "$2b$12$r22z0TTTUF7k2KZ0fPOJ../uGsPFP3X7wgC05CiD8dZdQzl6OTvJm"
+    },
+    {
+        "id": "85f88f9b-a6fe-467f-8cce-4f837f34512e",
+        "shaxsismi": "Botir",
+        "email": "b@gmail.com",
+        "role": "admin",
+        "kalit": "$2b$12$9Ry8ghhvC/QJocWzWcnH4.Iisye7ACrITheY7gh0L/Tt98.h788FW"
+    }
+]

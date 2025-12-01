@@ -1,0 +1,138 @@
+[
+    {
+        "id": "27e634fb-e547-4b33-8a70-a911efa2b09b",
+        "nomi": "sut",
+        "standart_miqdori": "1 litr",
+        "narxi": "8000 uzs",
+        "skidka": "-1%",
+        "skidka_muddati": "03.12.2025"
+    },
+    {
+        "id": "d03346cb-79cb-4280-886f-8a49b7e3e262",
+        "nomi": "Coffe",
+        "standart_miqdori": "fin dish 0.25g",
+        "narxi": "42000 uzs",
+        "skidka": "-11%",
+        "skidka_muddati": "03.12.2025"
+    },
+    {
+        "id": "74cdb0c3-28fd-4711-89e4-b5ac630744c0",
+        "nomi": "chashka",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "9ef450b9-e9ef-48cc-aec6-29485ea56e40",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "c3d5f2c3-3c33-4761-be53-af3b215cfdcd",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "cbd84426-6635-4eab-8a8e-e9ccd875c37b",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "5ab1dbe9-712f-4589-973e-3db4a6559144",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "3324a36d-7214-49b6-838b-26ed3e10a105",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "96102b6b-c555-4e58-be48-074ce7672041",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "608a1da1-29b0-452c-bea9-7ad5e8cacf1d",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "47ef0448-82f4-4415-96bb-b349d325a7bc",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "7486832b-bf90-4fae-8f0c-4384801ff8d6",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "8338c303-a6c4-4b75-b548-e09aea6b5d08",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "3366ebdf-c3eb-464b-9f66-41476edcc2ce",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "24bcb0c7-2dc3-46e5-a9a5-7c5dd92149e1",
+        "nomi": "tekshiruv",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "c32468ce-9967-42e7-9903-d8041efd949d",
+        "nomi": "hozirgi",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    },
+    {
+        "id": "3be97960-6da6-47ec-986a-94ff6c417ec2",
+        "nomi": "hozirgi yangi",
+        "standart_miqdori": "0.95 gm sig'm",
+        "narxi": "55000 uzs",
+        "skidka": "-42%",
+        "skidka_muddati": "04.12.2025"
+    }
+]

@@ -2726,6 +2726,6 @@ app.delete("/delete_texnika/:id", (kelayotgan, chiqayotgan) => {
 });
 
 
-app.listen(PORT, () => {
-  console.log("Server is running at:", PORT);
-});
+// app.listen(PORT, () => {
+//   console.log("Server is running at:", PORT);
+// });
