@@ -148,8 +148,46 @@ const SuperAdmin = async (keluvchi, chiquvchi) => {
   }
 };
 
+// get_all_users
+
+const getAllUsers = async (keluvch, chiquvchi) => {
+  try {
+    const malumot = malumotni_oqish("user.json")
+    chiquvchi.status(200).json(malumot)
+  } catch (error) {
+    chiquvchi.status(500).json({
+      message: error.message
+    })
+  }
+}
+
+// get one user
+
+const getOneUser = async (keluvch, chiquvchi) => {
+  try {
+    const {id} = keluvch.params
+    const malumot = malumotni_oqish("user.json")
+
+    const topilgan_Shaxs = malumot.find((bolak) => bolak.id === id)
+
+    if (!topilgan_Shaxs) {
+      return chiquvchi.status(404).json({
+        message: "Bu ID ostida xechkim topilmadi"
+      })
+    }
+
+    chiquvchi.status(200).json(topilgan_Shaxs)
+  } catch (error) {
+    chiquvchi.status(500).json({
+      message: error.message
+    })
+  }
+}
+
 module.exports = {
   register,
   login,
   SuperAdmin,
+  getAllUsers,
+  getOneUser
 };
