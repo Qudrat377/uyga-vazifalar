@@ -299,5 +299,5 @@ if (req.method === "DELETE" && req.url === "/login_dorini_ochir") {
 });
 
 app.listen(3435, () => {
-  console.log("Server ishlayapti");
+  console.log("Server ishlayapti", 3435, "PORT da");
 });

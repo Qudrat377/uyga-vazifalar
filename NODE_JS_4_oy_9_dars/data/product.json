@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1d7e0566-44c6-4a6d-8a9f-9113ce66f410",
+        "title": "HOT DOG",
+        "price": "1.49",
+        "description": "zo'r",
+        "time": "15:57"
+    },
+    {
+        "id": "fc6b651a-08c4-4565-b504-03c90aea1bc9",
+        "title": "Hamburger",
+        "price": "1.99",
+        "description": "H emas G. Gamburger deb o'qiladi",
+        "time": "18:48"
+    },
+    {
+        "id": "ebfed0d7-d476-4250-94e0-d21f23d551b4",
+        "title": "Lavash",
+        "price": "2.75",
+        "description": "Look",
+        "time": "19:47"
+    },
+    {
+        "id": "8421aca5-3852-4e41-9f80-c7e2b30ea74d",
+        "title": "KFC ",
+        "price": "2.75",
+        "description": "mazali jo'jalar",
+        "time": "19:48"
+    },
+    {
+        "id": "a8e95e14-7623-41d3-91c7-8c9147f3d7cc",
+        "title": "Pizza",
+        "price": "2.99",
+        "description": "Oling sovub qolmasin",
+        "time": "19:57"
+    },
+    {
+        "id": "be68c2a2-e3ac-4199-8670-ca169ea4a774",
+        "title": "Hotlanch",
+        "price": "0.50",
+        "description": "5 daqiqada tayyor bo'ladi",
+        "time": "20:17"
+    }
+]

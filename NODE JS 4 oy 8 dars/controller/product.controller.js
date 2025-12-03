@@ -122,7 +122,6 @@ const deleteProduct = async (keluvchi, chiquvchi) => {
       });
     }
 
-    
     function bbc(arr, ochir) {
         let sum = [];
 
