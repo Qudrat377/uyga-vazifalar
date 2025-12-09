@@ -1,0 +1,37 @@
+[
+    {
+        "oner_id": "4c6cd011-7355-4594-a4f5-d5567519c100",
+        "id": "cb88b295-8b77-4f60-9dfc-bec2500f9574",
+        "todo_item": "laptop 2 pro max",
+        "checked": false,
+        "time": "22:59"
+    },
+    {
+        "oner_id": "4c6cd011-7355-4594-a4f5-d5567519c100",
+        "id": "ef569831-2084-4482-a41d-90ca840f65cf",
+        "todo_item": "telefonni uxlashdan oldin zarytga ulash kerak",
+        "checked": false,
+        "time": "22:59"
+    },
+    {
+        "oner_id": "4c6cd011-7355-4594-a4f5-d5567519c100",
+        "id": "31052233-b510-4629-91b9-4f93dd55c69b",
+        "todo_item": "imtihonni topshirish kerak va undan so'ng urganchga bolalar shkafiga material olish uchun borish kerak",
+        "checked": true,
+        "time": "23:7"
+    },
+    {
+        "oner_id": "4c6cd011-7355-4594-a4f5-d5567519c100",
+        "id": "4e870f43-df6b-43df-9a80-1773fc7b4250",
+        "todo_item": "soat 16:00 da seshanbada dars imtihon",
+        "checked": true,
+        "time": "23:1"
+    },
+    {
+        "oner_id": "4c6cd011-7355-4594-a4f5-d5567519c100",
+        "id": "23939b6f-70c0-483c-9729-64aed1945ce8",
+        "todo_item": "ertangi kun rejasini tuzish",
+        "checked": true,
+        "time": "23:5"
+    }
+]

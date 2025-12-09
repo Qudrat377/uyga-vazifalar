@@ -1,0 +1,16 @@
+[
+    {
+        "id": "4c6cd011-7355-4594-a4f5-d5567519c100",
+        "username": "Qudratbek",
+        "email": "qudratrazzoqov377@gmail.com",
+        "role": "superadmin",
+        "password": "$2b$12$othE2xlAE1YZTSswW/kv1eDgpPSbbFjm/4Fn1fHT6rEMPc5xA4iBW"
+    },
+    {
+        "id": "f8d31aee-0a30-499c-b99e-9b7b9737efd5",
+        "username": "Qudrat",
+        "email": "qudratrazzoqov677@gmail.com",
+        "role": "admin",
+        "password": "$2b$12$A2GhI6tFJi8MG4rkKuvVvuTiWdv0dC0aEl92LUIO/sgGop9LhvEhK"
+    }
+]
